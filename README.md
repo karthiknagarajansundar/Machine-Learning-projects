@@ -5,7 +5,7 @@ The context: As a Pokemon hunter, there are only three Pokemon left to complete 
 
 [ipynb file](https://github.com/karthiknagarajansundar/Machine-Learning-projects/blob/main/finding_pokemon.ipynb)
 
-## Cats and Dogs classification
+## Cats vs Dogs classification
 Using the [Kaggle dataset](https://www.kaggle.com/c/dogs-vs-cats) which comprises of 25k colour images of dogs and cats, the main objective with this dataset is to create a classifier that can classify if the input image is a cat or a dog.
 
 [ipynb file](https://github.com/karthiknagarajansundar/Machine-Learning-projects/blob/main/cat_vs_dog_classification.ipynb)
